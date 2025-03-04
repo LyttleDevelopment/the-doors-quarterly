@@ -5,6 +5,9 @@ body {
     font-family: Calibri, sans-serif;
 }
 
+.back1 {
+    background-image: url("stuff/back1.jpg");
+}
 
 .center {
     display: grid;
