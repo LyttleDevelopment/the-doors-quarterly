@@ -72,6 +72,11 @@ body {
     font-size: x-large;
 }
 
+/* Old font size 4 */
+.lessBig {
+    font-size: larger;
+}
+
 .borderSpaceTen {
     border-spacing: 10px;
 }
