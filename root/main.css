@@ -64,6 +64,11 @@ body {
     font-size: small;
 }
 
+/* Old font size 5 */
+.big {
+    font-size: x-large;
+}
+
 .borderSpaceTen {
     border-spacing: 10px;
 }
