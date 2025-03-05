@@ -13,6 +13,10 @@ body {
     background-image: url("stuff/back1.jpg");
 }
 
+.back2 {
+    background-image: url("stuff/back2.jpg");
+}
+
 .center {
     display: grid;
     place-items: center;
