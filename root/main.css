@@ -5,6 +5,10 @@ body {
     font-family: Calibri, sans-serif;
 }
 
+.arial {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .back1 {
     background-image: url("stuff/back1.jpg");
 }
@@ -65,6 +69,10 @@ body {
 
 .lessSmall {
     font-size: small;
+}
+
+.bigger {
+    font-size: xx-large;
 }
 
 /* Old font size 5 */
