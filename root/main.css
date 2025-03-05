@@ -55,6 +55,10 @@ body {
     color: #FFFF00;
 }
 
+.dullYellow {
+    color: #FFFFE8;
+}
+
 .link {
     text-decoration-color: blue;
 }
@@ -71,6 +75,7 @@ body {
     font-size: small;
 }
 
+/* Old font size 6 */
 .bigger {
     font-size: xx-large;
 }
